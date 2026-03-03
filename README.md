@@ -1,2 +1,2 @@
 # CKA-Learning-2026
-My CKA learning and project
+Certified Kubernetes Administrator(CKA) 2026
